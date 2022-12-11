@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://free4kwallpapers.com/uploads/originals/2015/10/01/amazing-nature-view.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
